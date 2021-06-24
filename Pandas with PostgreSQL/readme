@@ -1,1 +1,5 @@
 
+This is a simple  employee based project for a small scale company where PostgreSql connection is made successfully.
+Python file --> take the following using pandas =  .txt,.csv,.json,.xlsx added with some PostgreSQl db data to generate the Html report .
+
+It combines the seggregated input file data along with DB data to generate the HTML report in good format.
